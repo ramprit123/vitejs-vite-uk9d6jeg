@@ -1,4 +1,3 @@
-import { useState } from 'react';
 import MaintenanceCalculator from './components/Mentenence';
 
 function App() {
